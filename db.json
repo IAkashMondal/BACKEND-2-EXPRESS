@@ -1,0 +1,24 @@
+{
+    "student": [
+        {
+            "name": "Akash",
+            "age": 31,
+            "id": 1
+        },
+        {
+            "name": "sayan",
+            "age": 22,
+            "id": 2
+        },
+        {
+            "name": "rony",
+            "age": 17,
+            "id": 3
+        },
+        {
+            "name": "samran",
+            "age": 25,
+            "id": 4
+        }
+    ]
+}
